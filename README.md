@@ -56,4 +56,9 @@
         <td> Zero-Trust Network Architecture </td>
         <td> Security Incident Response Planning </td>
     </tr>
-  
+</table>
+
+  <h2> Cybersecurity Tools Used </h2> 
+
+
+<h2> Projects </h2>
