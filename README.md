@@ -58,7 +58,7 @@
     </tr>
 </table>
 
-  <h2> Cybersecurity Tools Used </h2> 
+  <h2> Cybersecurity Tools & Skills </h2> 
 
 
 <h2> Cybersecurity Projects & Labs </h2>
