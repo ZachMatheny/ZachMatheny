@@ -58,9 +58,6 @@
     </tr>
 </table>
 
-  <h2> Cybersecurity Tools & Skills </h2> 
-
-
 <h2> Cybersecurity Projects & Labs </h2>
 <p>
   <a href= "https://github.com/ZachMatheny/Cybersecurity-Fundementals-.git"> Cybersecurity Fundementals </a>
