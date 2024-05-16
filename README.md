@@ -12,6 +12,16 @@
   My passion for cybersecurity and technology, coupled with my educational journey culminating in an MBA with a concentration in Cybersecurity and pursuit
   of an MS in Cybersecurity, has inspired my pursuit of employment within the cybersecurity industry.
 </p>
+<h2>Programming & Scripting Languages</h2>
+<div style="display: inline-block;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="C# Logo" style="width: 50px; margin-right: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" style="width: 50px; margin-right: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" style="width: 50px; margin-right: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash Logo" style="width: 60px; margin-right: 5px;">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" style="width: 80px;">
+</div>
+
+
 
 <h2> Skills </h2>
 <head>
