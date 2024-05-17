@@ -19,6 +19,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" style="width: 50px; margin-right: 5px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="Bash Logo" style="width: 60px; margin-right: 5px;">
     <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" style="width: 80px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell Logo" style="width: 50px;">
+</div>
 </div>
 
 
